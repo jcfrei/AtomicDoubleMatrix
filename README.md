@@ -1,1 +1,1 @@
-# AtomicDoubleArray
+# AtomicDoubleMatrix
