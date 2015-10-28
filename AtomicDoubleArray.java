@@ -1,6 +1,8 @@
 /**
  * Adapted from Google Guava's AtomicDoubleArray
  * Author: Jonathan Frei
+ *
+ * TODO: Serialization
  */
 package com.jcfrei.utils;
 
